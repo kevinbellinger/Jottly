@@ -50,7 +50,7 @@ h6 {
 
 #footer {
 
-  min-height: 120px;
+  min-height: 100px;
   width:100%;
 }
 
@@ -121,7 +121,7 @@ h6 {
 
 /* Placeholder pen and paper */
 #penpaper {
-  background:url('../images/deskwithpaper.jpg') top center no-repeat;
+  background:url('../images/deskwithpaper.jpg') center center no-repeat;
   background-size: cover;
   min-height: 400px;
   width:100%;
