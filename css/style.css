@@ -181,7 +181,100 @@ h6 {
 }
 
 
+@media only screen and (max-width: 479px) {
 
+#hero h1 {
+  font-size: 50px;
+  font-family: "Karla";
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 0rem;
+  line-height: 1;
+}
+
+#hero h2 {
+  font-size: 38px;
+  font-family: "Karla";
+  color: #ffffff;
+  margin-bottom: 0rem;
+}
+
+#hero h4 {
+  font-size: 21px;
+  font-family: "Karla";
+  color: #ffffff;
+  margin-bottom: 0rem;
+  line-height: 1;
+}
+
+#hero h5 {
+  font-size: 16px;
+  text-align: right;
+  font-family: "Karla";
+  color: #ffffff;
+}
+
+#hero p {
+  color:#d5d5d5;
+  font-size:1.33em;
+  line-height: 1.5;
+  text-shadow: 0 1px 2px rgba(0,0,0,.2);
+  margin-bottom: 1.2em;
+}
+#hero p strong {
+  color:#fff;
+}
+
+#dudeworking h1 {
+  font-size: 50px;
+  font-family: "Karla";
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#dudeworking h2 {
+  font-size: 38px;
+  font-family: "Karla";
+  line-height: 1;
+  color: #ffffff;
+}
+
+#dudeworking h4 {
+  font-size: 21px;
+  font-family: "Karla";
+  color: #ffffff;
+}
+
+#dudeworking h5 {
+  font-size: 16px;
+  text-align: center;
+  font-family: "Karla";
+  color: #ffffff;
+}
+
+#dudeworking p {
+  color:#d5d5d5;
+  font-size: 16px;
+  line-height: 1.0;
+  text-shadow: 0 1px 2px rgba(0,0,0,.2);
+  margin-bottom: 1.0em;
+}
+#dudeworking p strong {
+  color:#fff;
+}
+
+body {
+  background-color: #ffffff;
+  font-size: 16px;
+  font-family: "Karla", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(71, 64, 64);
+  text-align: center;
+  margin-bottom: 1.0em;
+}
+
+
+
+}
 
 
 
